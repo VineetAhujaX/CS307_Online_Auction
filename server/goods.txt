@@ -1,0 +1,5 @@
+20000	1000	NikeAirJordanRetro4 
+500	50	Kettle
+5000	500	Blazer
+10000	1000	Laptop
+10000	1000	LampPainting

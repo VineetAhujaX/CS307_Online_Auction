@@ -1,0 +1,4 @@
+vineet	vineet	493150
+jai	jai	494000
+100000	0	0
+anjali	anjali	100000
